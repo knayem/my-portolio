@@ -39,6 +39,14 @@ h5{
     font-family: 'Bebas Neue', cursive;
     margin-left: 1%;
 }
+.L-M{
+
+    color: goldenrod;
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+    margin: 5%;
+  
+}
 h3{
     font-size: 40px;
     text-align: center;
@@ -53,6 +61,10 @@ p{
     text-align: justify;
     font-family: 'Xanh Mono', monospace;
     font-size: 20px;
+}
+P7{
+    text-align: center;
+    margin: 50%;
 }
 P1{
 
@@ -127,24 +139,50 @@ section{
 
 }
 
-.box1{
+ .hlf-width{
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-radius: 5%;
+    margin: 10px;
+    width: 30%;
+    height: 60%;
     
-    border-radius: 1%;
-    margin: 100px;
-    margin-right: 50px;
-    width: 500px;
-    height: 70px;
-    padding: 2px;
-     border: 1px solid rgb(63, 14, 240); 
-    border-radius: 2%;
-    background-image: url(ss.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    text-align: center;
-    
-    
-
-  }  
+    padding: 10px;
       
-   
+  }
+  .bck-gd{
+    height: 150px;
+    width: 32%;
+    margin: auto;
+    padding: 30px;
+}
+.D-L{
+    background-image: url("ssr.png");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: contain;
+}
+.L-O{
+    float: left;
+    color: honeydew;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.O-L{
+    float: right;
+    text-decoration: none;
+    background:tomato;
+    color: rgb(255, 255, 255);
+    padding: 8px 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-right: 40px;
+    font-family: 'Goldman', cursive;
+
+}
+
+  
