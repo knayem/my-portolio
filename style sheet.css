@@ -1,3 +1,4 @@
+  
 body{
     
     font-family: 'Acme', sans-serif;
@@ -22,12 +23,15 @@ h4{
 h5{
     padding-bottom: 30%;
       font-family: 'Goldman', cursive;
-      text-align: center;
+      text-align: left;
+      margin:auto ;
+
   }
   p6{
       color: silver;
       font-family: 'Xanh Mono', monospace;
       font-size: 20px;
+      text-align:left;
   }
 .L-W{
     color: tomato;
@@ -99,15 +103,15 @@ section{
     border-radius: 5%;
     margin: 10px;
     width: 30%;
-    height: 50%;
+    height: 60%;
     float: left;
     padding: 10px;
 }
 .hlf-wdth img{
 
-    width: 60%;
-    margin-top: 3%;
-    margin-left: 20%;
+    width: 80%;
+    
+    margin:10px 30px;
     
 }
 .txt-im{
@@ -144,12 +148,3 @@ section{
   }  
       
    
-    
-    
-
-      
- 
-
-
-
-
