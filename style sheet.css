@@ -1,0 +1,155 @@
+body{
+    
+    font-family: 'Acme', sans-serif;
+    color: rgb(32, 4, 58);
+    font-size: 30px;
+    margin-left: 4%;
+}
+h2{
+    color: tomato;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 1%;
+    
+}
+h4{
+    text-align: center;
+    
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+h5{
+    padding-bottom: 30%;
+      font-family: 'Goldman', cursive;
+      text-align: center;
+  }
+  p6{
+      color: silver;
+      font-family: 'Xanh Mono', monospace;
+      font-size: 20px;
+  }
+.L-W{
+    color: tomato;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 1%;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+.H-H{
+    font-family: 'Bebas Neue', cursive;
+    color: tomato;
+    font-size: 30PX;
+}
+p{
+    color: rgb(185, 181, 181);
+    text-align: justify;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+P1{
+
+    color: black;
+}
+.half-width{
+    height: 5%;
+    width: 40%; 
+    float: left;
+    margin-left:5% ;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;}
+.link-button{
+    font-family: 'Righteous', cursive;
+    text-decoration: none;
+    background-color: indigo ;
+    color: ivory;
+    padding: 5px 10px;
+    border-radius: 13px;
+    background-image: linear-gradient(120deg, rgb(243, 118, 69) , indigo);
+    font-weight: 700;
+    font-size: 20px;
+}
+section{
+    
+    height: 500px;
+    padding-bottom: 5%;
+    ;
+}
+.back-gd{
+  background-color: rgb(240, 240, 240);
+  height: 550px;
+
+}
+.box{
+
+   display: block;
+    float: left;
+    height: 20px;
+    width: 25%;  
+}
+
+.hlf-wdth{
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-radius: 5%;
+    margin: 10px;
+    width: 30%;
+    height: 50%;
+    float: left;
+    padding: 10px;
+}
+.hlf-wdth img{
+
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 20%;
+    
+}
+.txt-im{
+
+    /* <a class="link-button" target="blank" href="https://www.programming-hero.com/"> LET'S CHAT</a> */
+    
+}
+.ha-th img{
+
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 35%;
+
+}
+
+.box1{
+    
+    border-radius: 1%;
+    margin: 100px;
+    margin-right: 50px;
+    width: 500px;
+    height: 70px;
+    padding: 2px;
+     border: 1px solid rgb(63, 14, 240); 
+    border-radius: 2%;
+    background-image: url(ss.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    
+    
+
+  }  
+      
+   
+    
+    
+
+      
+ 
+
+
+
+
